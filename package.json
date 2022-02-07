@@ -1,0 +1,31 @@
+{
+  "name": "nft-generate",
+  "version": "1.0.0",
+  "description": "nft generator app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erenlokman/nft-generator-app.git"
+  },
+  "keywords": [
+    "nft",
+    "metaverse",
+    "generator",
+    "smart",
+    "contracts"
+  ],
+  "author": "erenlokman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erenlokman/nft-generator-app/issues"
+  },
+  "homepage": "https://github.com/erenlokman/nft-generator-app#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "file-system": "^2.2.2",
+    "sharp": "^0.30.0"
+  }
+}
